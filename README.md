@@ -35,9 +35,9 @@ LoginPanda is a fun, interactive web-based login form featuring a cute animated 
    git clone https://github.com/your-username/LoginPanda.git
    ```
    
-   2. Open index.html in your browser.
+2. Open index.html in your browser.
 
-   3. Watch the panda react as you enter your credentials! 🎉🐼
+3. Watch the panda react as you enter your credentials! 🎉🐼
 
 ## 🌐 Live Preview
  
