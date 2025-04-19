@@ -1,8 +1,8 @@
 ## 🐼 LoginPanda - Interactive Panda Login Form
 
+![LoginPanda Banner](./banner.png)
 
-
-LoginPanda is a fun, interactive web-based login form featuring a cute animated panda. This project uses HTML, CSS, and JavaScript to create an engaging user experience where the panda reacts based on user input focus.
+LoginPanda is a fun, interactive web-based login form featuring a cute animated panda. This project uses **HTML**, **CSS**, and **JavaScript** to create an engaging user experience where the panda reacts based on user input focus.
 
 ## 🔧 Features
 
