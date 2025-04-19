@@ -18,7 +18,6 @@ LoginPanda is a fun, interactive web-based login form featuring a cute animated 
 
  LoginPanda/
  
-│
 ├── index.html  
 
 ├── style.css
