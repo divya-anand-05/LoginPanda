@@ -17,6 +17,7 @@ LoginPanda is a fun, interactive web-based login form featuring a cute animated 
  ##   📁 Project Structure
 
  LoginPanda/
+ 
 │
 ├── index.html  
 
@@ -29,9 +30,8 @@ LoginPanda is a fun, interactive web-based login form featuring a cute animated 
 ## 🚀 Getting Started
 
    1. Clone or download this repository.
-
+     ```bash
     git clone https://github.com/your-username/LoginPanda.git
-
 
    2. Open index.html in your browser.
 
@@ -39,7 +39,7 @@ LoginPanda is a fun, interactive web-based login form featuring a cute animated 
 
 ## 🌐 Live Preview
  
-👉 Click here to see it live(https://divya-anand-05.github.io/LoginPanda/)
+👉 [Click here to see it live](https://divya-anand-05.github.io/LoginPanda/)
 
 ## 🧠 What You'll Learn
 
@@ -54,12 +54,13 @@ LoginPanda is a fun, interactive web-based login form featuring a cute animated 
 ## 📦 How to Deploy with GitHub Pages
 
    1. Push your project to GitHub:
-      
-      git init
-      git add .
-      git commit -m "initial commit"
-      git remote add origin https://github.com/your-username/LoginPanda.git
-      git push -u origin main
+      ```bash
+     git init
+git add .
+git commit -m "initial commit"
+git remote add origin https://github.com/your-username/LoginPanda.git
+git push -u origin main
+
 
    2. Go to your repository on GitHub → Settings → Pages
 
@@ -73,7 +74,7 @@ https://divya-anand-05.github.io/LoginPanda/ 🎉
 
  ## 🙏 Credits
 
-Created with 💖 by [https://github.com/divya-anand-05]
+Created with 💖 by [Divya Anand](https://github.com/divya-anand-05)
 Inspired by cute UX and creative login animations online.
 
      
