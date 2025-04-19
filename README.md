@@ -32,7 +32,6 @@ LoginPanda is a fun, interactive web-based login form featuring a cute animated 
    1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/random-joke-generator.git
-
    2. Open index.html in your browser.
 
    3. Watch the panda react as you enter your credentials! 🎉🐼
@@ -60,7 +59,6 @@ LoginPanda is a fun, interactive web-based login form featuring a cute animated 
      git commit -m "initial commit"
      git remote add origin https://github.com/your-username/LoginPanda.git
      git push -u origin main
-
    2. Go to your repository on GitHub → Settings → Pages
 
    3. Under Source, select main branch and / (root) folder
